@@ -1,0 +1,12 @@
+dog
+cat
+horse
+dog
+horse
+horse
+human
+dog
+math
+horse
+geometry
+dog
